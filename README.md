@@ -1,1 +1,2 @@
-# kta24project1
+# My KTA24 Homework Project 
+Commit nr 0 
