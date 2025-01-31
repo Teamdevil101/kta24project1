@@ -10,3 +10,5 @@ Commit nr 3
 Commit nr 4 
  
 Commit nr 5 
+ 
+Commit nr 6 
