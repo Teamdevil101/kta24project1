@@ -24,3 +24,5 @@ Commit nr 10
 Commit nr 11 
  
 Commit nr 12 
+ 
+Commit nr 13 
