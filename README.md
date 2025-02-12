@@ -34,3 +34,5 @@ Commit nr 15
 Commit nr 16 
  
 Commit nr 17 
+ 
+Commit nr 18 
